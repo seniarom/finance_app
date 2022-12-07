@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-# finance_app
-Приложение для ведения личных/домашних финансов.
-=======
 # finance_app_vue
 
 ## Project setup
@@ -26,4 +22,3 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> Stashed changes
